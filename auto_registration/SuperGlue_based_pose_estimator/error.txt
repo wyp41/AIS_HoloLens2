@@ -1,0 +1,4 @@
+normal: 4.64mm, 1.96mm, 3.96mm, 2.41mm
+2cm above: 8.176mm 
+3cm above: 5.323mm
+4cm above: 8.76mm
